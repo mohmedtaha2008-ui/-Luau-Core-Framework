@@ -1,0 +1,7 @@
+# Luau-Core-Framework
+A lightweight, modular, and type-safe Luau utility framework designed for Roblox indie developers.
+
+## Features
+- **NetSync:** Reliable server-client state synchronization with minimal bandwidth overhead.
+- **DataGuard:** Safe session locking and player data management.
+- **SignalPlus:** Fast, memory-leak-free custom event handling in strict Luau.
